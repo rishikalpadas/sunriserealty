@@ -48,7 +48,7 @@
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="shop-grid.php">Gallery</a></li>
+                                    <li><a href="portfolio.php">Gallery</a></li>
                                     <li><a href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>

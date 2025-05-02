@@ -180,11 +180,11 @@
                                                 <li><a href="locations.php">Google Map Locations</a></li>
                                             </ul> -->
                                         </li>
-                                        <li><a href="shop-grid.php">Gallery</a>
+                                        <li><a href="portfolio.php">Gallery</a>
                                             <!-- <ul>
                                                 <li><a href="shop.php">Property Grid</a></li>
                                                 <li><a href="shop-list.php">Property List</a></li>
-                                                <li><a href="shop-grid.php">Property No Sidebar</a></li>
+                                                <li><a href="portfolio.php">Property No Sidebar</a></li>
                                                 <li><a href="shop-left-sidebar.php">Property Left sidebar</a></li>
                                                 <li><a href="shop-right-sidebar.php">Property right sidebar</a></li>
                                                 <li><a href="product-details.php">Property details </a></li>
@@ -237,7 +237,7 @@
                                                         <li><a href="shop.php">Shop</a></li>
                                                         <li><a href="shop-left-sidebar.php">Shop Left sidebar</a></li>
                                                         <li><a href="shop-right-sidebar.php">Shop right sidebar</a></li>
-                                                        <li><a href="shop-grid.php">Shop Grid</a></li>
+                                                        <li><a href="portfolio.php">Shop Grid</a></li>
                                                         <li><a href="product-details.php">Shop details </a></li>
                                                         <li><a href="cart.php">Cart</a></li>
                                                     </ul>
@@ -420,11 +420,11 @@
                             <li><a href="locations.php">Google Map Locations</a></li>
                         </ul> -->
                     </li>
-                    <li><a href="shop-grid.php">Gallery</a>
+                    <li><a href="portfolio.php">Gallery</a>
                         <!-- <ul class="sub-menu">
                             <li><a href="shop.php">Property Grid</a></li>
                             <li><a href="shop-list.php">Property List</a></li>
-                            <li><a href="shop-grid.php">Property No Sidebar</a></li>
+                            <li><a href="portfolio.php">Property No Sidebar</a></li>
                             <li><a href="shop-left-sidebar.php">Property Left sidebar</a></li>
                             <li><a href="shop-right-sidebar.php">Property right sidebar</a></li>
                             <li><a href="product-details.php">Property details </a></li>

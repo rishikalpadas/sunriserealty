@@ -24,34 +24,49 @@
     <div class="ltn__contact-address-area mb-90">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
                         <div class="ltn__contact-address-icon">
                             <img src="img/icons/10.png" alt="Icon Image">
                         </div>
                         <h3>Email Address</h3>
-                        <p>info@webmail.com <br>
+                        <p>info@webmail.com <br> <br>
                             jobs@webexample.com</p>
+                            <br>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
                         <div class="ltn__contact-address-icon">
                             <img src="img/icons/11.png" alt="Icon Image">
                         </div>
                         <h3>Phone Number</h3>
-                        <p>+0123-456789 <br> +987-6543210</p>
+                        <p>+91-8240704900 <br> <br> +91-6291129296</p>
+                        <br>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
                         <div class="ltn__contact-address-icon">
                             <img src="img/icons/12.png" alt="Icon Image">
                         </div>
                         <h3>Office Address</h3>
-                        <p>18/A, New Born Town Hall <br>
-                            New York, US</p>
+                        <p>74/75/2 Buxarah Road, Howrah - 711101 <br>
+                            (Beside Bator Kona
+                             Expressway Crossing)</p>
                     </div>
+                    
+                </div>
+                <div class="col-lg-3">
+                    <div class="ltn__contact-address-item ltn__contact-address-item-3 box-shadow">
+                        <div class="ltn__contact-address-icon">
+                            <img src="img/icons/12.png" alt="Icon Image">
+                        </div>
+                        <h3>Project Address</h3>
+                        <p>Mandarmani, Dadan Patrabar, <br> Purba Medinipur<br>
+                            (Near Manasha Mandir)</p>
+                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -59,7 +74,7 @@
     <!-- CONTACT ADDRESS AREA END -->
     
     <!-- CONTACT MESSAGE AREA START -->
-    <div class="ltn__contact-message-area mb-120 mb--100">
+    <!-- <div class="ltn__contact-message-area mb-120 mb--100">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -109,7 +124,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- CONTACT MESSAGE AREA END -->
 
     <!-- GOOGLE MAP AREA START -->
@@ -121,7 +136,7 @@
     <!-- GOOGLE MAP AREA END -->
 
     <!-- CALL TO ACTION START (call-to-action-6) -->
-    <div class="ltn__call-to-action-area call-to-action-6 before-bg-bottom" data-bs-bg="img/1.jpg--">
+    <!-- <div class="ltn__call-to-action-area call-to-action-6 before-bg-bottom" data-bs-bg="img/1.jpg--">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -137,7 +152,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- CALL TO ACTION END -->
 <?php include 'footer.php'; ?>
 
