@@ -18,7 +18,9 @@
                                             <i class="icon-placeholder"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p>Brooklyn, New York, United States</p>
+                                            <p>Mandarmani, Dadan Patrabar<br>
+                                                Purba Medinipur
+                                                (Near Manasha Mandir)</p>
                                         </div>
                                     </li>
                                     <li>
@@ -26,7 +28,8 @@
                                             <i class="icon-call"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="tel:+0123-456789">+0123-456789</a></p>
+                                            <p><a href="tel:+91-8240704900">+91-8240704900</a></p>
+                                            <p><a href="tel:+91-6291129296">+91-6291129296</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -34,42 +37,43 @@
                                             <i class="icon-mail"></i>
                                         </div>
                                         <div class="footer-address-info">
-                                            <p><a href="mailto:example@example.com">example@example.com</a></p>
+                                            <p><a href="mailto:info@sunriserealty.org">info@sunriserealty.org</a></p>
                                         </div>
                                     </li>
                                 </ul>
                             </div>
-                           
+
                         </div>
                     </div>
                     <div class="col-xl-4 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Company</h4>
+                            <h4 class="footer-title">Quick Links</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="about.php">About</a></li>
-                                    <li><a href="portfolio.php">Gallery</a></li>
+                                    <li><a href="about.php">About Us</a></li>
+                                    <li><a href="portfolio.php">Our Gallery</a></li>
                                     <li><a href="contact.php">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                     <div class="col-xl-4 col-md-6 col-sm-6 col-12">
-                        <div class="footer-widget footer-menu-widget clearfix">
-                            <!-- <h4 class="footer-title">Services</h4> -->
+                    <div class="col-xl-4 col-md-6 col-sm-6 col-12">
+                        <!-- <div class="footer-widget footer-menu-widget clearfix">
+                            <h4 class="footer-title">Services</h4>
                             <div class="footer-menu">
-                                 <div class="ltn__social-media mt-20">
-                                <ul>
-                                    <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
-                                    <li><a href="#" title="Youtube"><i class="fab fa-youtube"></i></a></li>
-                                </ul>
+                                <div class="ltn__social-media mt-20">
+                                    <ul>
+                                        <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                                        <li><a href="#" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+                                    </ul>
+                                </div>
                             </div>
-                            </div>
-                        </div>
+                        </div> -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3708.0261974330806!2d87.69450837473153!3d21.66283826569986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDM5JzQ2LjIiTiA4N8KwNDEnNDkuNSJF!5e0!3m2!1sen!2sin!4v1746950289802!5m2!1sen!2sin" width="80%" height="80%" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
-                  <!--  <div class="col-xl-2 col-md-6 col-sm-6 col-12">
+                    <!--  <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
                             <h4 class="footer-title">Customer Care</h4>
                             <div class="footer-menu">
@@ -108,15 +112,18 @@
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="ltn__copyright-design clearfix">
-                            <p>All Rights Reserved @ Company <span class="current-year"></span></p>
+                            <p>Copyright &copy; <span class="current-year"></span>, All Rights Reserved</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12 align-self-center">
-                        <div class="ltn__copyright-menu text-end">
+                    <div class="col-md-6 col-12 d-flex justify-content-end">
+                        <div class="ltn__social-media">
                             <ul>
-                                <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Claim</a></li>
-                                <li><a href="#">Privacy & Policy</a></li>
+                                <!-- <li>Share:</li> -->
+                                <li><a href="https://www.facebook.com/share/1EDWAktgc6/?mibextid=wwXIfr" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <!-- <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li> -->
+                                <!-- <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li> -->
+                                <li><a href="https://www.instagram.com/seanest2025?igsh=eGwwYm9xMXBtNmpy" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -138,8 +145,8 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                         <div class="ltn__quick-view-modal-inner">
-                             <div class="modal-product-item">
+                        <div class="ltn__quick-view-modal-inner">
+                            <div class="modal-product-item">
                                 <div class="row">
                                     <div class="col-lg-6 col-12">
                                         <div class="modal-product-img">
@@ -170,7 +177,7 @@
                                             <div class="modal-product-meta ltn__product-details-menu-1 d-none">
                                                 <ul>
                                                     <li>
-                                                        <strong>Categories:</strong> 
+                                                        <strong>Categories:</strong>
                                                         <span>
                                                             <a href="#">Parts</a>
                                                             <a href="#">Car</a>
@@ -220,15 +227,15 @@
                                                     <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                                                     <li><a href="#" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
                                                     <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
-                                                    
+
                                                 </ul>
                                             </div>
                                             <label class="float-end mb-0"><a class="text-decoration" href="product-details.php"><small>View Details</small></a></label>
                                         </div>
                                     </div>
                                 </div>
-                             </div>
-                         </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -237,7 +244,7 @@
     <!-- MODAL AREA END -->
 
     <!-- MODAL AREA START (Add To Cart Modal) -->
-    <div class="ltn__modal-area ltn__add-to-cart-modal-area">
+    <!-- <div class="ltn__modal-area ltn__add-to-cart-modal-area">
         <div class="modal fade" id="add_to_cart_modal" tabindex="-1">
             <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
@@ -262,7 +269,7 @@
                                                 <a href="checkout.php" class="theme-btn-2 btn btn-effect-2">Checkout</a>
                                             </div>
                                          </div>
-                                         <!-- additional-info -->
+                                         additional-info
                                          <div class="additional-info d-none">
                                             <p>We want to give you <b>10% discount</b> for your first order, <br>  Use discount code at checkout</p>
                                             <div class="payment-method">
@@ -277,11 +284,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- MODAL AREA END -->
 
     <!-- MODAL AREA START (Wishlist Modal) -->
-    <div class="ltn__modal-area ltn__add-to-cart-modal-area">
+    <!-- <div class="ltn__modal-area ltn__add-to-cart-modal-area">
         <div class="modal fade" id="liton_wishlist_modal" tabindex="-1">
             <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
@@ -305,7 +312,7 @@
                                                 <a href="wishlist.php" class="theme-btn-1 btn btn-effect-1">View Wishlist</a>
                                             </div>
                                          </div>
-                                         <!-- additional-info -->
+                                         additional-info
                                          <div class="additional-info d-none">
                                             <p>We want to give you <b>10% discount</b> for your first order, <br>  Use discount code at checkout</p>
                                             <div class="payment-method">
@@ -320,11 +327,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- MODAL AREA END -->
 
-</div>
-<!-- Body main wrapper end -->
+    </div>
+    <!-- Body main wrapper end -->
 
     <!-- preloader area start -->
     <div class="preloader d-none" id="preloader">
@@ -341,6 +348,101 @@
     <script src="js/plugins.js"></script>
     <!-- Main JS -->
     <script src="js/main.js"></script>
-  
-</body>
-</html>
+
+    <script>
+        const gallery = document.getElementById('gallery');
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightbox-img');
+
+        // Prevent image drag behavior
+        gallery.querySelectorAll('img').forEach(img => {
+            img.addEventListener('dragstart', e => e.preventDefault());
+        });
+
+        // Auto-scroll
+        let scrollStep = 260;
+        let autoScroll;
+
+        function startAutoScroll() {
+            autoScroll = setInterval(() => {
+                if ((gallery.scrollLeft + gallery.clientWidth) >= gallery.scrollWidth) {
+                    gallery.scrollTo({
+                        left: 0,
+                        behavior: 'smooth'
+                    });
+                } else {
+                    gallery.scrollBy({
+                        left: scrollStep,
+                        behavior: 'smooth'
+                    });
+                }
+            }, 3000);
+        }
+
+        function stopAutoScroll() {
+            clearInterval(autoScroll);
+        }
+
+        startAutoScroll();
+
+        ['mousedown', 'touchstart'].forEach(evt =>
+            gallery.addEventListener(evt, stopAutoScroll)
+        );
+        ['mouseup', 'touchend'].forEach(evt =>
+            gallery.addEventListener(evt, startAutoScroll)
+        );
+
+        // Lightbox
+        function openLightbox(src) {
+            lightboxImg.src = src;
+            lightbox.style.display = 'flex';
+            stopAutoScroll();
+        }
+
+        function closeLightbox() {
+            lightbox.style.display = 'none';
+            startAutoScroll();
+        }
+
+        // Mouse drag-to-scroll
+        let isDown = false;
+        let startX;
+        let scrollLeft;
+        let isDragging = false;
+
+        gallery.addEventListener('mousedown', (e) => {
+            isDown = true;
+            startX = e.pageX - gallery.offsetLeft;
+            scrollLeft = gallery.scrollLeft;
+            isDragging = false;
+        });
+
+        gallery.addEventListener('mouseleave', () => {
+            isDown = false;
+        });
+
+        gallery.addEventListener('mouseup', () => {
+            isDown = false;
+            setTimeout(() => isDragging = false, 0); // Reset
+        });
+
+        gallery.addEventListener('mousemove', (e) => {
+            if (!isDown) return;
+            e.preventDefault();
+            const x = e.pageX - gallery.offsetLeft;
+            const walk = (x - startX) * 1.5;
+            if (Math.abs(walk) > 5) isDragging = true;
+            gallery.scrollLeft = scrollLeft - walk;
+        });
+
+        // Prevent lightbox open on accidental drag-click
+        gallery.querySelectorAll('img').forEach(img => {
+            img.addEventListener('click', function(e) {
+                if (!isDragging) openLightbox(this.src);
+            });
+        });
+    </script>
+
+    </body>
+
+    </html>

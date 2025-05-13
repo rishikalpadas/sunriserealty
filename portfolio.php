@@ -355,8 +355,46 @@
                  <div class="ltn__gallery-item filter_category_2 col-lg-4 col-sm-6 col-12">
                     <div class="ltn__gallery-item-inner">
                         <div class="ltn__gallery-item-img">
-                            <a href="media/1.mp4" data-rel="lightcase:myCollection">
-                                <img src="img/gallery/5.jpg" alt="Image">
+                            <a href="img/gallery/v1.mp4" data-rel="lightcase:myCollection">
+                                <video src="img/gallery/v1.mp4" autoplay loop muted width="850px" height="480px">
+                                <span class="ltn__gallery-action-icon">
+                                    <i class="fas fa-video"></i>
+                                </span>
+                            </a>
+                        </div>
+                        <!-- <div class="ltn__gallery-item-info">
+                            <h4><a href="portfolio-details.html">HTML5 Video </a></h4>
+                            <p>Web Design & Development, Branding</p>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- gallery-item -->
+
+                <!-- gallery-item -->
+                 <div class="ltn__gallery-item filter_category_2 col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__gallery-item-inner">
+                        <div class="ltn__gallery-item-img">
+                            <a href="img/gallery/v2.mp4" data-rel="lightcase:myCollection">
+                                <video src="img/gallery/v2.mp4" autoplay loop muted width="850px" height="480px">
+                                <span class="ltn__gallery-action-icon">
+                                    <i class="fas fa-video"></i>
+                                </span>
+                            </a>
+                        </div>
+                        <!-- <div class="ltn__gallery-item-info">
+                            <h4><a href="portfolio-details.html">HTML5 Video </a></h4>
+                            <p>Web Design & Development, Branding</p>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- gallery-item -->
+
+                <!-- gallery-item -->
+                 <div class="ltn__gallery-item filter_category_2 col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__gallery-item-inner">
+                        <div class="ltn__gallery-item-img">
+                            <a href="img/gallery/v3.mp4" data-rel="lightcase:myCollection">
+                                <video src="img/gallery/v3.mp4" autoplay loop muted width="850px" height="480px">
                                 <span class="ltn__gallery-action-icon">
                                     <i class="fas fa-video"></i>
                                 </span>
