@@ -5800,7 +5800,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     flex: 0 0 100%;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: center;
+    /* justify-content: center; */
     margin: 10px 0 30px; }
   .ltn__header-4 .ltn__header-options,
   .ltn__header-5 .ltn__header-options {

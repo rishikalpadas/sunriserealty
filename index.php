@@ -21,7 +21,7 @@ include('header.php');
                                     <!-- <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
@@ -57,7 +57,7 @@ include('header.php');
                                         <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
@@ -94,7 +94,7 @@ include('header.php');
                                         <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
@@ -131,7 +131,7 @@ include('header.php');
                                         <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
@@ -167,7 +167,7 @@ include('header.php');
                                         <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
@@ -203,7 +203,7 @@ include('header.php');
                                         <h6 class="slide-sub-title white-color--- animated"><span><i class="fas fa-home"></i></span> Real Estate Agency</h6> -->
                                     <h1 class="slide-title animated ">Find Your Dream <br> House By Us</h1>
                                     <div class="slide-brief animated">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
                                     </div>
                                     <div class="btn-wrapper animated">
                                         <a href="about.php#aboutusform" class="theme-btn-1 btn btn-effect-1">Make An Enquiry</a>
